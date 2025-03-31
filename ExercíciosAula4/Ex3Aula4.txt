@@ -1,0 +1,6 @@
+Um objeto é uma instância de uma classe que possui atributos e métodos.
+
+Um método é uma função ou procedimento definido dentro de uma classe, 
+ele serve para descrevrer as ações ou comportamentos que os objetos daquela classe podem realizar.
+
+Uma classe é uma definição ou um molde para criar objetos, ela define os atributos e os métodos que seus objetos terão.

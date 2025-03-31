@@ -1,0 +1,21 @@
+Ex3:
+a. A classe descrita a seguir está correta?
+Se incorreta justifique sua resposta.
+
+O inteiro cont é declarado como private, o que significa que ele não
+pode ser utilizado na classe Y, para que ele possa ser acessado nessa clase,
+ele deve ser utilizado como o método setCont, e não o atributo direto.
+
+Ex5:
+Está incorreto, os dois metodos "metodo1" de mesmo nome não podem retornar
+tipos de variaveis diferentes, como um retorna int e outro retorna string, 
+o código dara erro.
+
+Ex6:
+Static.
+
+Ex7:
+Private.
+
+Ex8:
+Valor.
